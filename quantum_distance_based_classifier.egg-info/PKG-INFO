@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: quantum-distance-based-classifier
+Version: 0.0.1
+Summary: The Quantum Distance-based classifier is a technique inspired by the classical k-Nearest Neighbors that leverage quantum properties to perform prediction. The package has been implemented in Qiskit
+Home-page: https://github.com/Brotherhood94/quantum_distance_based_classifier_package
+Author: Alessandro Berti
+License-File: LICENSE

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+quantum_distance_based_classifier/__init__.py
+quantum_distance_based_classifier/quantum_distance_based_classifier.py
+quantum_distance_based_classifier.egg-info/PKG-INFO
+quantum_distance_based_classifier.egg-info/SOURCES.txt
+quantum_distance_based_classifier.egg-info/dependency_links.txt
+quantum_distance_based_classifier.egg-info/requires.txt
+quantum_distance_based_classifier.egg-info/top_level.txt
